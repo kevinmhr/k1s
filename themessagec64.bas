@@ -1,7 +1,7 @@
 
 
 1400 rem the message by k1mhr end of 2021
-1500 poke 53281,0 ;poke 53280,0
+1500 poke 53281,0 :poke 53280,0
 1510 a=0 ; for a=100 to 253
 2000 poke 55296+rnd(1)*999,rnd(1)*32
 2001 poke 55296+rnd(1)*999,rnd(1)*32
